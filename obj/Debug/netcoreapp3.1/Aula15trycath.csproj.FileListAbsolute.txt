@@ -1,0 +1,13 @@
+C:\Users\giova\Desktop\pastaDoDe\Aula15trycath\bin\Debug\netcoreapp3.1\Aula15trycath.exe
+C:\Users\giova\Desktop\pastaDoDe\Aula15trycath\bin\Debug\netcoreapp3.1\Aula15trycath.deps.json
+C:\Users\giova\Desktop\pastaDoDe\Aula15trycath\bin\Debug\netcoreapp3.1\Aula15trycath.runtimeconfig.json
+C:\Users\giova\Desktop\pastaDoDe\Aula15trycath\bin\Debug\netcoreapp3.1\Aula15trycath.runtimeconfig.dev.json
+C:\Users\giova\Desktop\pastaDoDe\Aula15trycath\bin\Debug\netcoreapp3.1\Aula15trycath.dll
+C:\Users\giova\Desktop\pastaDoDe\Aula15trycath\bin\Debug\netcoreapp3.1\Aula15trycath.pdb
+C:\Users\giova\Desktop\pastaDoDe\Aula15trycath\obj\Debug\netcoreapp3.1\Aula15trycath.csprojAssemblyReference.cache
+C:\Users\giova\Desktop\pastaDoDe\Aula15trycath\obj\Debug\netcoreapp3.1\Aula15trycath.AssemblyInfoInputs.cache
+C:\Users\giova\Desktop\pastaDoDe\Aula15trycath\obj\Debug\netcoreapp3.1\Aula15trycath.AssemblyInfo.cs
+C:\Users\giova\Desktop\pastaDoDe\Aula15trycath\obj\Debug\netcoreapp3.1\Aula15trycath.csproj.CoreCompileInputs.cache
+C:\Users\giova\Desktop\pastaDoDe\Aula15trycath\obj\Debug\netcoreapp3.1\Aula15trycath.dll
+C:\Users\giova\Desktop\pastaDoDe\Aula15trycath\obj\Debug\netcoreapp3.1\Aula15trycath.pdb
+C:\Users\giova\Desktop\pastaDoDe\Aula15trycath\obj\Debug\netcoreapp3.1\Aula15trycath.genruntimeconfig.cache
